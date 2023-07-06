@@ -1,3 +1,4 @@
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">
 <h1 align="center">Hi 👋, I'm <a href="https://github.com/DeerghKataria" target="_blank">Deergh Kataria</a></h1>
 <h3 align="center">A passionate Developer from New Delhi, India &#127470;&#127475;</h3>
 
