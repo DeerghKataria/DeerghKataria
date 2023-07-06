@@ -20,7 +20,8 @@
 - 📫 Email **deerghkatariabusiness@gmail.com** for business enquiries.
 
 - 📄 Know about my experiences <a href="https://cat-egret-7bd.notion.site/Resume-315bf82fe52144e69d805c8262a922a1?pvs=4" target="_blank">Resume</a>
-<br>
+<br/>
+<h3 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
 <p align="center">
   <div align="center" class="icons-social" style="margin-left: 10px;">
@@ -34,8 +35,5 @@
       <img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
 
 
-<br>
-
-<h3 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
 
