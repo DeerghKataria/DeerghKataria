@@ -1,13 +1,14 @@
 <h1 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;"> Hi 👋, I'm <a href="https://github.com/DeerghKataria" target="_blank">Deergh Kataria</a></h1>
 <h3 align="center">A passionate Developer from New Delhi, India &#127470;&#127475;</h3>
 
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=flat" alt="your-username" /> </p>
 
 <p align="left"> <a href="https://twitter.com/Deergh_K" target="_blank"><img src="https://img.shields.io/twitter/follow/deerghkataria?logo=twitter&style=for-the-badge" alt="deerghkataria" /></a> </p>
 
-<a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
-</a>
 
 - 🌱 I’m currently studying at <a href="https://www.amity.edu/" target="_blank">Amity University, Noida</a>
 
