@@ -13,7 +13,7 @@
 
 - 🤝 I’m available for freelance projects.
 
-- 🌱 I’m currently learning <a href="https://your-learning-resource.com" target="_blank">Your Learning Resource</a>
+- 🌱 I’m currently learning Data Structures and Algorithms.
 
 - 📝 I regularly make videos on [YouTube](https://www.youtube.com/deerghkataria)
 
@@ -27,13 +27,9 @@
   <div align="center" class="icons-social" style="margin-left: 10px;">
     <a style="margin-left: 10px;" target="_blank" href="https://www.linkedin.com/in/deergh-kataria-544564236/">
       <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
-    <a style="margin-left: 10px;" target="_blank" href="https://github.com/your-github">
+    <a style="margin-left: 10px;" target="_blank" href="https://github.com/DeerghKataria">
       <img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-    <a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/users/your-stackoverflow-id/your-stackoverflow-username">
-      <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"></a>
-    <a style="margin-left: 10px;" target="_blank" href="https://dev.to/your-devto">
-      <img src="https://img.icons8.com/external-sketchy-juicy-fish/0.6x/external-blog-online-services-sketchy-sketchy-
-    <a style="margin-left: 10px;" target="_blank" href="https://dev.to/your-devto">
-      <img src="https://img.icons8.com/external-sketchy-juicy-fish/0.6x/external-blog-online-services-sketchy-sketchy-juicy-fish.png"></a>
+
+  
 <h3 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
