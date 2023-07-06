@@ -5,10 +5,6 @@
 
 <p align="left"> <a href="https://twitter.com/Deergh_K" target="_blank"><img src="https://img.shields.io/twitter/follow/deerghkataria?logo=twitter&style=for-the-badge" alt="deerghkataria" /></a> </p>
 
-<a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
-</a>
-
 - 🌱 I’m currently studying at <a href="https://www.amity.edu/" target="_blank">Amity University, Noida</a>
 
 - 🤝 I’m available for Freelance Projects.
@@ -21,6 +17,11 @@
 
 - 📄 Know about my experiences <a href="https://cat-egret-7bd.notion.site/Resume-315bf82fe52144e69d805c8262a922a1?pvs=4" target="_blank">Resume</a>
 <br/>
+
+<div style="position: relative; height: 400px;">
+  <img style="position: absolute; bottom: 0; right: 0;" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</div>
+
 <h3 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
 <p align="center">
