@@ -1,6 +1,10 @@
 <h1 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;"> Hi 👋, I'm <a href="https://github.com/DeerghKataria" target="_blank">Deergh Kataria</a></h1>
 <h3 align="center">A passionate Developer from New Delhi, India &#127470;&#127475;</h3>
 
+<div style="display: flex; justify-content: center; align-items: center; height: 400px;">
+  <img height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</div>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=flat" alt="your-username" /> </p>
 
 <p align="left"> <a href="https://twitter.com/Deergh_K" target="_blank"><img src="https://img.shields.io/twitter/follow/deerghkataria?logo=twitter&style=for-the-badge" alt="deerghkataria" /></a> </p>
@@ -17,10 +21,6 @@
 
 - 📄 Know about my experiences <a href="https://cat-egret-7bd.notion.site/Resume-315bf82fe52144e69d805c8262a922a1?pvs=4" target="_blank">Resume</a>
 <br/>
-
-<div style="position: relative; height: 400px;">
-  <img style="position: absolute; bottom: 0; right: 0;" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
-</div>
 
 <h3 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
