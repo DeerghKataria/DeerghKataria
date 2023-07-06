@@ -17,8 +17,6 @@
 
 - 📝 I regularly make videos on [YouTube](https://www.youtube.com/deerghkataria)
 
-- 💬 Ask me about **Your Skills**
-
 - 📫 How to reach me **deerghkatariabusiness@gmail.com**
 
 - 📄 Know about my experiences <a href="https://cat-egret-7bd.notion.site/Resume-315bf82fe52144e69d805c8262a922a1?pvs=4" target="_blank">Resume</a>
@@ -35,3 +33,7 @@
       <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"></a>
     <a style="margin-left: 10px;" target="_blank" href="https://dev.to/your-devto">
       <img src="https://img.icons8.com/external-sketchy-juicy-fish/0.6x/external-blog-online-services-sketchy-sketchy-
+    <a style="margin-left: 10px;" target="_blank" href="https://dev.to/your-devto">
+      <img src="https://img.icons8.com/external-sketchy-juicy-fish/0.6x/external-blog-online-services-sketchy-sketchy-juicy-fish.png"></a>
+<h3 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
+
