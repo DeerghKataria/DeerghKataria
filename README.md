@@ -9,27 +9,25 @@
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 I’m currently working at <a href="https://your-company.com" target="_blank">Your Company</a>
-
-- 🌱 I’m currently working on <a href="https://your-project.com" target="_blank">Your Project</a>
+- 🌱 I’m currently studying at <a href="https://www.amity.edu/" target="_blank">Amity University, Noida</a>
 
 - 🤝 I’m available for freelance projects.
 
 - 🌱 I’m currently learning <a href="https://your-learning-resource.com" target="_blank">Your Learning Resource</a>
 
-- 📝 I regularly write articles on [your-blog](https://your-blog.com)
+- 📝 I regularly make videos on [YouTube](https://www.youtube.com/deerghkataria)
 
 - 💬 Ask me about **Your Skills**
 
 - 📫 How to reach me **deerghkatariabusiness@gmail.com**
 
-- 📄 Know about my experiences <a href="https://your-resume-link.com" target="_blank">Resume</a>
+- 📄 Know about my experiences <a href="https://cat-egret-7bd.notion.site/Resume-315bf82fe52144e69d805c8262a922a1?pvs=4" target="_blank">Resume</a>
 <br/>
 <h3 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
 <p align="center">
   <div align="center" class="icons-social" style="margin-left: 10px;">
-    <a style="margin-left: 10px;" target="_blank" href="https://www.linkedin.com/in/your-linkedin/">
+    <a style="margin-left: 10px;" target="_blank" href="https://www.linkedin.com/in/deergh-kataria-544564236/">
       <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
     <a style="margin-left: 10px;" target="_blank" href="https://github.com/your-github">
       <img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
