@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=flat" alt="your-username" /> </p>
 
-<p align="left"> <a href="https://twitter.com/Deergh_K" target="_blank"><img src="https://img.shields.io/twitter/follow/your-twitter?logo=twitter&style=for-the-badge" alt="deerghkataria" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Deergh_K" target="_blank"><img src="https://img.shields.io/twitter/follow/deerghkataria?logo=twitter&style=for-the-badge" alt="deerghkataria" /></a> </p>
 
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
