@@ -21,6 +21,7 @@
 
 - 📄 Know about my experiences <a href="https://cat-egret-7bd.notion.site/Resume-315bf82fe52144e69d805c8262a922a1?pvs=4" target="_blank">Resume</a>
 <br/>
+<h3 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
 <p align="center">
   <div align="center" class="icons-social" style="margin-left: 10px;">
@@ -28,5 +29,9 @@
       <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
     <a style="margin-left: 10px;" target="_blank" href="https://github.com/DeerghKataria">
       <img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
+      <a style="margin-left: 10px;" target="_blank" href="https://twitter.com/Deergh_K">
+      <img src="https://img.icons8.com/doodle/40/000000/twitter-squared--v2.png"></a>
+      <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/deerghkataria/">
+      <img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
 
-<h3 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
+
