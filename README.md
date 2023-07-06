@@ -17,7 +17,7 @@
 
 - 🎥 I regularly make videos on [YouTube](https://www.youtube.com/deerghkataria)
 
-- 📫 Email me at **deerghkatariabusiness@gmail.com** for business enquiries.
+- 📫 Email **deerghkatariabusiness@gmail.com** for business enquiries.
 
 - 📄 Know about my experiences <a href="https://cat-egret-7bd.notion.site/Resume-315bf82fe52144e69d805c8262a922a1?pvs=4" target="_blank">Resume</a>
 <br/>
