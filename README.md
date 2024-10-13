@@ -1,5 +1,5 @@
 <h1 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;"> Hi 👋, I'm Deergh Kataria</h1>
-<h3 align="center">A passionate Developer from New Delhi, India &#127470;&#127475;</h3>
+<h3 align="center">A passionate Developer from Dublin, Ireland &#127470;&#127475;</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=flat" alt="your-username" /> </p>
 
