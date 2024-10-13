@@ -9,7 +9,7 @@
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🌱 I’m currently studying at <a href="https://www.amity.edu/" target="_blank">Amity University, Noida</a>
+- 🌱 I’m currently studying MSc Data and Computational Science at <a href="https://www.ucd.ie/" target="_blank">University College, Dublin</a>
 
 - 🤝 I’m available for Freelance Projects.
 
@@ -18,9 +18,6 @@
 - 🎥 I regularly make videos on [YouTube](https://www.youtube.com/deerghkataria)
 
 - 📫 Email **deerghkatariabusiness@gmail.com** for business enquiries.
-
-- 📄 Know about my experiences <a href="https://cat-egret-7bd.notion.site/Resume-315bf82fe52144e69d805c8262a922a1?pvs=4" target="_blank">Resume</a>
-<br/>
 
 <h3 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
