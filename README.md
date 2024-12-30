@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning Data Structures and Algorithms.
 
-- 🎥 I regularly make videos on [YouTube](https://www.youtube.com/deerghkataria)
+- 🎥 I try to make videos on [YouTube](https://www.youtube.com/deerghkataria) in my spare time.
 
 - 📫 Email **deerghkatariabusiness@gmail.com** for business enquiries.
 
