@@ -9,7 +9,7 @@
 
 - 🤝 I’m available for Freelance and Open-source Projects.
 
-- 🌱 I’m currently learning Data Structures and Algorithms.
+- 🌱 I’m currently learning Data Structures and Algorithms and practicing [Leetcode](https://leetcode.com/u/deerghkataria/).
 
 - 🎥 I try to make videos on [YouTube](https://www.youtube.com/deerghkataria) in my spare time.
 
